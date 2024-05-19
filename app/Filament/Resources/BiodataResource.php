@@ -96,25 +96,23 @@ class BiodataResource extends Resource
                 ])->columns(12),
 
 
-                Section::make('Alamat Asal')->relationship('address')
+                Section::make('Alamat')->relationship('address')
                     ->schema([
                         Forms\Components\Grid::make(2)->schema([
-                            Select::make('city_id')
-                                ->relationship('Kota', 'name')
+                            Select::make('city_id')->label('Kota Asal')
+                                ->relationship('city', 'name')
                                 ->searchable()
                                 ->required(),
-                            Select::make('province_id')
-                                ->relationship('Provinsi', 'name')
+                            Select::make('province_id')->label('Provinsi Asal')
+                                ->relationship('province', 'name')
                                 ->searchable()
                                 ->required(),
-                        ]),
+                        TextInput::make('street')->label('Kelurahan Saat Ini'),
+                        TextInput::make('sub_district')->label('Kecamatan Saat Ini'),
+                        TextInput::make('regency')->label('Kabupaten Saat Ini'),
                     ]),
-                Section::make('Alamat Sekarang')->relationship('address')
-                    ->schema([
-                    TextInput::make('Alamat')->required(),
-                    TextInput::make('Keluarahan')->required(),
-                    TextInput::make('Kecamatan')->required(),
                 ]),
+
 
                 Section::make('Pendidikan')->relationship('education')
                     ->schema([

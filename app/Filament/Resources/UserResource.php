@@ -36,11 +36,11 @@ class UserResource extends Resource
                     TextInput::make('name')->label('nama')->required(),
                     TextInput::make('email')->label('email')->required(),
                     TextInput::make('password')->label('password')->required(),
-                    Select::make('role')->label('role')->required()
-                        ->options([
-                            'admin' => 'Admin',
-                            'super_admin' => 'Super Admin',
-                        ])
+                    Forms\Components\Select::make('roles')
+                    ->relationship('roles', 'name')
+                    ->multiple()
+                    ->preload()
+                    ->searchable()
             ]);
     }
     

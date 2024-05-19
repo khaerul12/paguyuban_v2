@@ -21,6 +21,9 @@ use Filament\Tables\Actions\DeleteBulkAction;
 use pxlrbt\FilamentExcel\Actions\Tables\ExportBulkAction;
 use pxlrbt\FilamentExcel\Columns\Column;
 use pxlrbt\FilamentExcel\Exports\ExcelExport;
+use Filament\Widgets\StatsOverviewWidget as BaseWidget;
+use Filament\Widgets\StatsOverviewWidget\Stat;
+use Livewire\Component; // Import Livewire Component class
 
 
 class ListAssetCustom extends Page implements HasTable
@@ -36,6 +39,10 @@ class ListAssetCustom extends Page implements HasTable
 
 
     protected static string $view = 'filament.resources.assets-resource.pages.list-asset-custom';
+
+
+    // protected static string $view = 'app.Livewire.StatsOverview';
+
 
     protected function getViewData(): array
     {
@@ -104,9 +111,4 @@ class ListAssetCustom extends Page implements HasTable
             'edit' => EditAssets::route('/{record}/edit'),
         ];
     }
-
-    // public function render(): View
-    // {
-    //     return view('livewire.list-products');
-    // }
 }
