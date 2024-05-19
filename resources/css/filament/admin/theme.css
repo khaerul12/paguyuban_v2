@@ -1,0 +1,83 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+@config './tailwind.config.js';
+
+@layer components {
+    .fi-sidebar {
+        @apply bg-[#0e2337]
+        shadow-lg
+    }
+
+    nav{
+        @apply shadow-none !important;
+    }
+    nav{
+        @apply ring-0 !important
+    }
+
+    .fi-topbar nav{
+        @apply bg-[#fafafa]
+    }
+
+    .fi-fo-date-time-picker div,  .fi-fo-date-time-picker div select, .fi-fo-date-time-picker div input {
+        @apply bg-[#fafafa]
+    }
+
+    .fi-sidebar-header{
+        @apply shadow-none ring-0 !important
+    }
+
+    .fi-dropdown-panel{
+        @apply bg-[#fafafa]
+    }
+
+    .fi-sidebar-item a, .fi-sidebar-item a svg {
+        @apply text-gray-300 hover:text-[#000]
+    }
+
+    .fi-sidebar-item-active a, .fi-sidebar-item-active a svg {
+        @apply text-[#fff]
+    }
+
+    .fi-sidebar-item-active a {
+        @apply bg-[#2a4156] hover:bg-[#fff]
+    }
+
+    .fi-sidebar-item a svg{
+        @apply hover:text-[#000] !important
+    }
+
+    .fi-header div a span{
+        @apply first:text-gray-100
+    }
+
+    .fi-wi-stats-overview-stat, .fi-wi-chart{
+        @apply shadow-lg !important
+    }
+
+    button #data.birth_date{
+        @apply bg-yellow !important
+    }
+
+    .fi-modal-window{
+        @apply bg-[#fff]
+    }
+
+    .fi-modal-footer-actions .fi-btn {
+        @apply last:text-gray-300
+    }
+
+
+
+
+
+    /*.fi-sidebar-item a*/
+    /*{*/
+    /*    @apply text-gray-100 !important*/
+    /*}*/
+
+    /*.fi-sidebar-item svg*/
+    /*{*/
+    /*    @apply text-gray-100 !important*/
+    /*}*/
+}

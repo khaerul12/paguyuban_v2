@@ -1,0 +1,11 @@
+.activity h2{
+    font-size: 50px !important;
+}
+
+.activity {
+    padding: 10px;
+}
+
+.activity p{
+    gap: 2;
+}

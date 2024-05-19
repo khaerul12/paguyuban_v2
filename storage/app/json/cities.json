@@ -1,0 +1,2058 @@
+[
+    {
+        "id": 1,
+        "name": "Kabupaten Aceh Selatan"
+    },
+    {
+        "id": 2,
+        "name": "Kabupaten Aceh Tenggara"
+    },
+    {
+        "id": 3,
+        "name": "Kabupaten Aceh Timur"
+    },
+    {
+        "id": 4,
+        "name": "Kabupaten Aceh Tengah"
+    },
+    {
+        "id": 5,
+        "name": "Kabupaten Aceh Barat"
+    },
+    {
+        "id": 6,
+        "name": "Kabupaten Aceh Besar"
+    },
+    {
+        "id": 7,
+        "name": "Kabupaten Pidie"
+    },
+    {
+        "id": 8,
+        "name": "Kabupaten Aceh Utara"
+    },
+    {
+        "id": 9,
+        "name": "Kabupaten Simeulue"
+    },
+    {
+        "id": 10,
+        "name": "Kabupaten Aceh Singkil"
+    },
+    {
+        "id": 11,
+        "name": "Kabupaten Bireuen"
+    },
+    {
+        "id": 12,
+        "name": "Kabupaten Aceh Barat Daya"
+    },
+    {
+        "id": 13,
+        "name": "Kabupaten Gayo Lues"
+    },
+    {
+        "id": 14,
+        "name": "Kabupaten Aceh Jaya"
+    },
+    {
+        "id": 15,
+        "name": "Kabupaten Nagan Raya"
+    },
+    {
+        "id": 16,
+        "name": "Kabupaten Aceh Tamiang"
+    },
+    {
+        "id": 17,
+        "name": "Kabupaten Bener Meriah"
+    },
+    {
+        "id": 18,
+        "name": "Kabupaten Pidie Jaya"
+    },
+    {
+        "id": 19,
+        "name": "Kota Banda Aceh"
+    },
+    {
+        "id": 20,
+        "name": "Kota Sabang"
+    },
+    {
+        "id": 21,
+        "name": "Kota Lhokseumawe"
+    },
+    {
+        "id": 22,
+        "name": "Kota Langsa"
+    },
+    {
+        "id": 23,
+        "name": "Kota Subulussalam"
+    },
+    {
+        "id": 24,
+        "name": "Kabupaten Tapanuli Tengah"
+    },
+    {
+        "id": 25,
+        "name": "Kabupaten Tapanuli Utara"
+    },
+    {
+        "id": 26,
+        "name": "Kabupaten Tapanuli Selatan"
+    },
+    {
+        "id": 27,
+        "name": "Kabupaten Nias"
+    },
+    {
+        "id": 28,
+        "name": "Kabupaten Langkat"
+    },
+    {
+        "id": 29,
+        "name": "Kabupaten Karo"
+    },
+    {
+        "id": 30,
+        "name": "Kabupaten Deli Serdang"
+    },
+    {
+        "id": 31,
+        "name": "Kabupaten Simalungun"
+    },
+    {
+        "id": 32,
+        "name": "Kabupaten Asahan"
+    },
+    {
+        "id": 33,
+        "name": "Kabupaten Labuhanbatu"
+    },
+    {
+        "id": 34,
+        "name": "Kabupaten Dairi"
+    },
+    {
+        "id": 35,
+        "name": "Kabupaten Toba Samosir"
+    },
+    {
+        "id": 36,
+        "name": "Kabupaten Mandailing Natal"
+    },
+    {
+        "id": 37,
+        "name": "Kabupaten Nias Selatan"
+    },
+    {
+        "id": 38,
+        "name": "Kabupaten Pakpak Bharat"
+    },
+    {
+        "id": 39,
+        "name": "Kabupaten Humbang Hasundutan"
+    },
+    {
+        "id": 40,
+        "name": "Kabupaten Samosir"
+    },
+    {
+        "id": 41,
+        "name": "Kabupaten Serdang Bedagai"
+    },
+    {
+        "id": 42,
+        "name": "Kabupaten Batu Bara"
+    },
+    {
+        "id": 43,
+        "name": "Kabupaten Padang Lawas Utara"
+    },
+    {
+        "id": 44,
+        "name": "Kabupaten Padang Lawas"
+    },
+    {
+        "id": 45,
+        "name": "Kabupaten Labuhanbatu Selatan"
+    },
+    {
+        "id": 46,
+        "name": "Kabupaten Labuhanbatu Utara"
+    },
+    {
+        "id": 47,
+        "name": "Kabupaten Nias Utara"
+    },
+    {
+        "id": 48,
+        "name": "Kabupaten Nias Barat"
+    },
+    {
+        "id": 49,
+        "name": "Kota Medan"
+    },
+    {
+        "id": 50,
+        "name": "Kota Pematangsiantar"
+    },
+    {
+        "id": 51,
+        "name": "Kota Sibolga"
+    },
+    {
+        "id": 52,
+        "name": "Kota Tanjung Balai"
+    },
+    {
+        "id": 53,
+        "name": "Kota Binjai"
+    },
+    {
+        "id": 54,
+        "name": "Kota Tebing Tinggi"
+    },
+    {
+        "id": 55,
+        "name": "Kota Padangsidimpuan"
+    },
+    {
+        "id": 56,
+        "name": "Kota Gunungsitoli"
+    },
+    {
+        "id": 57,
+        "name": "Kabupaten Pesisir Selatan"
+    },
+    {
+        "id": 58,
+        "name": "Kabupaten Solok"
+    },
+    {
+        "id": 59,
+        "name": "Kabupaten Sijunjung"
+    },
+    {
+        "id": 60,
+        "name": "Kabupaten Tanah Datar"
+    },
+    {
+        "id": 61,
+        "name": "Kabupaten Padang Pariaman"
+    },
+    {
+        "id": 62,
+        "name": "Kabupaten Agam"
+    },
+    {
+        "id": 63,
+        "name": "Kabupaten Lima Puluh Kota"
+    },
+    {
+        "id": 64,
+        "name": "Kabupaten Pasaman"
+    },
+    {
+        "id": 65,
+        "name": "Kabupaten Kepulauan Mentawai"
+    },
+    {
+        "id": 66,
+        "name": "Kabupaten Dharmasraya"
+    },
+    {
+        "id": 67,
+        "name": "Kabupaten Solok Selatan"
+    },
+    {
+        "id": 68,
+        "name": "Kabupaten Pasaman Barat"
+    },
+    {
+        "id": 69,
+        "name": "Kota Padang"
+    },
+    {
+        "id": 70,
+        "name": "Kota Solok"
+    },
+    {
+        "id": 71,
+        "name": "Kota Sawahlunto"
+    },
+    {
+        "id": 72,
+        "name": "Kota Padang Panjang"
+    },
+    {
+        "id": 73,
+        "name": "Kota Bukittinggi"
+    },
+    {
+        "id": 74,
+        "name": "Kota Payakumbuh"
+    },
+    {
+        "id": 75,
+        "name": "Kota Pariaman"
+    },
+    {
+        "id": 76,
+        "name": "Kabupaten Kampar"
+    },
+    {
+        "id": 77,
+        "name": "Kabupaten Indragiri Hulu"
+    },
+    {
+        "id": 78,
+        "name": "Kabupaten Bengkalis"
+    },
+    {
+        "id": 79,
+        "name": "Kabupaten Indragiri Hilir"
+    },
+    {
+        "id": 80,
+        "name": "Kabupaten Pelalawan"
+    },
+    {
+        "id": 81,
+        "name": "Kabupaten Rokan Hulu"
+    },
+    {
+        "id": 82,
+        "name": "Kabupaten Rokan Hilir"
+    },
+    {
+        "id": 83,
+        "name": "Kabupaten Siak"
+    },
+    {
+        "id": 84,
+        "name": "Kabupaten Kuantan Singingi"
+    },
+    {
+        "id": 85,
+        "name": "Kabupaten Kepulauan Meranti"
+    },
+    {
+        "id": 86,
+        "name": "Kota Pekanbaru"
+    },
+    {
+        "id": 87,
+        "name": "Kota Dumai"
+    },
+    {
+        "id": 88,
+        "name": "Kabupaten Kerinci"
+    },
+    {
+        "id": 89,
+        "name": "Kabupaten Merangin"
+    },
+    {
+        "id": 90,
+        "name": "Kabupaten Sarolangun"
+    },
+    {
+        "id": 91,
+        "name": "Kabupaten Batanghari"
+    },
+    {
+        "id": 92,
+        "name": "Kabupaten Muaro Jambi"
+    },
+    {
+        "id": 93,
+        "name": "Kabupaten Tanjung Jabung Barat"
+    },
+    {
+        "id": 94,
+        "name": "Kabupaten Tanjung Jabung Timur"
+    },
+    {
+        "id": 95,
+        "name": "Kabupaten Bungo"
+    },
+    {
+        "id": 96,
+        "name": "Kabupaten Tebo"
+    },
+    {
+        "id": 97,
+        "name": "Kota Jambi"
+    },
+    {
+        "id": 98,
+        "name": "Kota Sungai Penuh"
+    },
+    {
+        "id": 99,
+        "name": "Kabupaten Ogan Komering Ulu"
+    },
+    {
+        "id": 100,
+        "name": "Kabupaten Ogan Komering Ilir"
+    },
+    {
+        "id": 101,
+        "name": "Kabupaten Muara Enim"
+    },
+    {
+        "id": 102,
+        "name": "Kabupaten Lahat"
+    },
+    {
+        "id": 103,
+        "name": "Kabupaten Musi Rawas"
+    },
+    {
+        "id": 104,
+        "name": "Kabupaten Musi Banyuasin"
+    },
+    {
+        "id": 105,
+        "name": "Kabupaten Banyuasin"
+    },
+    {
+        "id": 106,
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+    },
+    {
+        "id": 107,
+        "name": "Kabupaten Ogan Komering Ulu Selatan"
+    },
+    {
+        "id": 108,
+        "name": "Kabupaten Ogan Ilir"
+    },
+    {
+        "id": 109,
+        "name": "Kabupaten Empat Lawang"
+    },
+    {
+        "id": 110,
+        "name": "Kabupaten Penukal Abab Lematang Ilir"
+    },
+    {
+        "id": 111,
+        "name": "Kabupaten Musi Rawas Utara"
+    },
+    {
+        "id": 112,
+        "name": "Kota Palembang"
+    },
+    {
+        "id": 113,
+        "name": "Kota Pagar Alam"
+    },
+    {
+        "id": 114,
+        "name": "Kota Lubuk Linggau"
+    },
+    {
+        "id": 115,
+        "name": "Kota Prabumulih"
+    },
+    {
+        "id": 116,
+        "name": "Kabupaten Bengkulu Selatan"
+    },
+    {
+        "id": 117,
+        "name": "Kabupaten Rejang Lebong"
+    },
+    {
+        "id": 118,
+        "name": "Kabupaten Bengkulu Utara"
+    },
+    {
+        "id": 119,
+        "name": "Kabupaten Kaur"
+    },
+    {
+        "id": 120,
+        "name": "Kabupaten Seluma"
+    },
+    {
+        "id": 121,
+        "name": "Kabupaten Muko Muko"
+    },
+    {
+        "id": 122,
+        "name": "Kabupaten Lebong"
+    },
+    {
+        "id": 123,
+        "name": "Kabupaten Kepahiang"
+    },
+    {
+        "id": 124,
+        "name": "Kabupaten Bengkulu Tengah"
+    },
+    {
+        "id": 125,
+        "name": "Kota Bengkulu"
+    },
+    {
+        "id": 126,
+        "name": "Kabupaten Lampung Selatan"
+    },
+    {
+        "id": 127,
+        "name": "Kabupaten Lampung Tengah"
+    },
+    {
+        "id": 128,
+        "name": "Kabupaten Lampung Utara"
+    },
+    {
+        "id": 129,
+        "name": "Kabupaten Lampung Barat"
+    },
+    {
+        "id": 130,
+        "name": "Kabupaten Tulang Bawang"
+    },
+    {
+        "id": 131,
+        "name": "Kabupaten Tanggamus"
+    },
+    {
+        "id": 132,
+        "name": "Kabupaten Lampung Timur"
+    },
+    {
+        "id": 133,
+        "name": "Kabupaten Way Kanan"
+    },
+    {
+        "id": 134,
+        "name": "Kabupaten Pesawaran"
+    },
+    {
+        "id": 135,
+        "name": "Kabupaten Pringsewu"
+    },
+    {
+        "id": 136,
+        "name": "Kabupaten Mesuji"
+    },
+    {
+        "id": 137,
+        "name": "Kabupaten Tulang Bawang Barat"
+    },
+    {
+        "id": 138,
+        "name": "Kabupaten Pesisir Barat"
+    },
+    {
+        "id": 139,
+        "name": "Kota Bandar Lampung"
+    },
+    {
+        "id": 140,
+        "name": "Kota Metro"
+    },
+    {
+        "id": 141,
+        "name": "Kabupaten Bangka"
+    },
+    {
+        "id": 142,
+        "name": "Kabupaten Belitung"
+    },
+    {
+        "id": 143,
+        "name": "Kabupaten Bangka Selatan"
+    },
+    {
+        "id": 144,
+        "name": "Kabupaten Bangka Tengah"
+    },
+    {
+        "id": 145,
+        "name": "Kabupaten Bangka Barat"
+    },
+    {
+        "id": 146,
+        "name": "Kabupaten Belitung Timur"
+    },
+    {
+        "id": 147,
+        "name": "Kota Pangkal Pinang"
+    },
+    {
+        "id": 148,
+        "name": "Kabupaten Bintan"
+    },
+    {
+        "id": 149,
+        "name": "Kabupaten Karimun"
+    },
+    {
+        "id": 150,
+        "name": "Kabupaten Natuna"
+    },
+    {
+        "id": 151,
+        "name": "Kabupaten Lingga"
+    },
+    {
+        "id": 152,
+        "name": "Kabupaten Kepulauan Anambas"
+    },
+    {
+        "id": 153,
+        "name": "Kota Batam"
+    },
+    {
+        "id": 154,
+        "name": "Kota Tanjung Pinang"
+    },
+    {
+        "id": 155,
+        "name": "Kabupaten Adm. Kep. Seribu"
+    },
+    {
+        "id": 156,
+        "name": "Kota Adm. Jakarta Pusat"
+    },
+    {
+        "id": 157,
+        "name": "Kota Adm. Jakarta Utara"
+    },
+    {
+        "id": 158,
+        "name": "Kota Adm. Jakarta Barat"
+    },
+    {
+        "id": 159,
+        "name": "Kota Adm. Jakarta Selatan"
+    },
+    {
+        "id": 160,
+        "name": "Kota Adm. Jakarta Timur"
+    },
+    {
+        "id": 161,
+        "name": "Kabupaten Bogor"
+    },
+    {
+        "id": 162,
+        "name": "Kabupaten Sukabumi"
+    },
+    {
+        "id": 163,
+        "name": "Kabupaten Cianjur"
+    },
+    {
+        "id": 164,
+        "name": "Kabupaten Bandung"
+    },
+    {
+        "id": 165,
+        "name": "Kabupaten Garut"
+    },
+    {
+        "id": 166,
+        "name": "Kabupaten Tasikmalaya"
+    },
+    {
+        "id": 167,
+        "name": "Kabupaten Ciamis"
+    },
+    {
+        "id": 168,
+        "name": "Kabupaten Kuningan"
+    },
+    {
+        "id": 169,
+        "name": "Kabupaten Cirebon"
+    },
+    {
+        "id": 170,
+        "name": "Kabupaten Majalengka"
+    },
+    {
+        "id": 171,
+        "name": "Kabupaten Sumedang"
+    },
+    {
+        "id": 172,
+        "name": "Kabupaten Indramayu"
+    },
+    {
+        "id": 173,
+        "name": "Kabupaten Subang"
+    },
+    {
+        "id": 174,
+        "name": "Kabupaten Purwakarta"
+    },
+    {
+        "id": 175,
+        "name": "Kabupaten Karawang"
+    },
+    {
+        "id": 176,
+        "name": "Kabupaten Bekasi"
+    },
+    {
+        "id": 177,
+        "name": "Kabupaten Bandung Barat"
+    },
+    {
+        "id": 178,
+        "name": "Kabupaten Pangandaran"
+    },
+    {
+        "id": 179,
+        "name": "Kota Bogor"
+    },
+    {
+        "id": 180,
+        "name": "Kota Sukabumi"
+    },
+    {
+        "id": 181,
+        "name": "Kota Bandung"
+    },
+    {
+        "id": 182,
+        "name": "Kota Cirebon"
+    },
+    {
+        "id": 183,
+        "name": "Kota Bekasi"
+    },
+    {
+        "id": 184,
+        "name": "Kota Depok"
+    },
+    {
+        "id": 185,
+        "name": "Kota Cimahi"
+    },
+    {
+        "id": 186,
+        "name": "Kota Tasikmalaya"
+    },
+    {
+        "id": 187,
+        "name": "Kota Banjar"
+    },
+    {
+        "id": 188,
+        "name": "Kabupaten Cilacap"
+    },
+    {
+        "id": 189,
+        "name": "Kabupaten Banyumas"
+    },
+    {
+        "id": 190,
+        "name": "Kabupaten Purbalingga"
+    },
+    {
+        "id": 191,
+        "name": "Kabupaten Banjarnegara"
+    },
+    {
+        "id": 192,
+        "name": "Kabupaten Kebumen"
+    },
+    {
+        "id": 193,
+        "name": "Kabupaten Purworejo"
+    },
+    {
+        "id": 194,
+        "name": "Kabupaten Wonosobo"
+    },
+    {
+        "id": 195,
+        "name": "Kabupaten Magelang"
+    },
+    {
+        "id": 196,
+        "name": "Kabupaten Boyolali"
+    },
+    {
+        "id": 197,
+        "name": "Kabupaten Klaten"
+    },
+    {
+        "id": 198,
+        "name": "Kabupaten Sukoharjo"
+    },
+    {
+        "id": 199,
+        "name": "Kabupaten Wonogiri"
+    },
+    {
+        "id": 200,
+        "name": "Kabupaten Karanganyar"
+    },
+    {
+        "id": 201,
+        "name": "Kabupaten Sragen"
+    },
+    {
+        "id": 202,
+        "name": "Kabupaten Grobogan"
+    },
+    {
+        "id": 203,
+        "name": "Kabupaten Blora"
+    },
+    {
+        "id": 204,
+        "name": "Kabupaten Rembang"
+    },
+    {
+        "id": 205,
+        "name": "Kabupaten Pati"
+    },
+    {
+        "id": 206,
+        "name": "Kabupaten Kudus"
+    },
+    {
+        "id": 207,
+        "name": "Kabupaten Jepara"
+    },
+    {
+        "id": 208,
+        "name": "Kabupaten Demak"
+    },
+    {
+        "id": 209,
+        "name": "Kabupaten Semarang"
+    },
+    {
+        "id": 210,
+        "name": "Kabupaten Temanggung"
+    },
+    {
+        "id": 211,
+        "name": "Kabupaten Kendal"
+    },
+    {
+        "id": 212,
+        "name": "Kabupaten Batang"
+    },
+    {
+        "id": 213,
+        "name": "Kabupaten Pekalongan"
+    },
+    {
+        "id": 214,
+        "name": "Kabupaten Pemalang"
+    },
+    {
+        "id": 215,
+        "name": "Kabupaten Tegal"
+    },
+    {
+        "id": 216,
+        "name": "Kabupaten Brebes"
+    },
+    {
+        "id": 217,
+        "name": "Kota Magelang"
+    },
+    {
+        "id": 218,
+        "name": "Kota Surakarta"
+    },
+    {
+        "id": 219,
+        "name": "Kota Salatiga"
+    },
+    {
+        "id": 220,
+        "name": "Kota Semarang"
+    },
+    {
+        "id": 221,
+        "name": "Kota Pekalongan"
+    },
+    {
+        "id": 222,
+        "name": "Kota Tegal"
+    },
+    {
+        "id": 223,
+        "name": "Kabupaten Kulon Progo"
+    },
+    {
+        "id": 224,
+        "name": "Kabupaten Bantul"
+    },
+    {
+        "id": 225,
+        "name": "Kabupaten Gunungkidul"
+    },
+    {
+        "id": 226,
+        "name": "Kabupaten Sleman"
+    },
+    {
+        "id": 227,
+        "name": "Kota Yogyakarta"
+    },
+    {
+        "id": 228,
+        "name": "Kabupaten Pacitan"
+    },
+    {
+        "id": 229,
+        "name": "Kabupaten Ponorogo"
+    },
+    {
+        "id": 230,
+        "name": "Kabupaten Trenggalek"
+    },
+    {
+        "id": 231,
+        "name": "Kabupaten Tulungagung"
+    },
+    {
+        "id": 232,
+        "name": "Kabupaten Blitar"
+    },
+    {
+        "id": 233,
+        "name": "Kabupaten Kediri"
+    },
+    {
+        "id": 234,
+        "name": "Kabupaten Malang"
+    },
+    {
+        "id": 235,
+        "name": "Kabupaten Lumajang"
+    },
+    {
+        "id": 236,
+        "name": "Kabupaten Jember"
+    },
+    {
+        "id": 237,
+        "name": "Kabupaten Banyuwangi"
+    },
+    {
+        "id": 238,
+        "name": "Kabupaten Bondowoso"
+    },
+    {
+        "id": 239,
+        "name": "Kabupaten Situbondo"
+    },
+    {
+        "id": 240,
+        "name": "Kabupaten Probolinggo"
+    },
+    {
+        "id": 241,
+        "name": "Kabupaten Pasuruan"
+    },
+    {
+        "id": 242,
+        "name": "Kabupaten Sidoarjo"
+    },
+    {
+        "id": 243,
+        "name": "Kabupaten Mojokerto"
+    },
+    {
+        "id": 244,
+        "name": "Kabupaten Jombang"
+    },
+    {
+        "id": 245,
+        "name": "Kabupaten Nganjuk"
+    },
+    {
+        "id": 246,
+        "name": "Kabupaten Madiun"
+    },
+    {
+        "id": 247,
+        "name": "Kabupaten Magetan"
+    },
+    {
+        "id": 248,
+        "name": "Kabupaten Ngawi"
+    },
+    {
+        "id": 249,
+        "name": "Kabupaten Bojonegoro"
+    },
+    {
+        "id": 250,
+        "name": "Kabupaten Tuban"
+    },
+    {
+        "id": 251,
+        "name": "Kabupaten Lamongan"
+    },
+    {
+        "id": 252,
+        "name": "Kabupaten Gresik"
+    },
+    {
+        "id": 253,
+        "name": "Kabupaten Bangkalan"
+    },
+    {
+        "id": 254,
+        "name": "Kabupaten Sampang"
+    },
+    {
+        "id": 255,
+        "name": "Kabupaten Pamekasan"
+    },
+    {
+        "id": 256,
+        "name": "Kabupaten Sumenep"
+    },
+    {
+        "id": 257,
+        "name": "Kota Kediri"
+    },
+    {
+        "id": 258,
+        "name": "Kota Blitar"
+    },
+    {
+        "id": 259,
+        "name": "Kota Malang"
+    },
+    {
+        "id": 260,
+        "name": "Kota Probolinggo"
+    },
+    {
+        "id": 261,
+        "name": "Kota Pasuruan"
+    },
+    {
+        "id": 262,
+        "name": "Kota Mojokerto"
+    },
+    {
+        "id": 263,
+        "name": "Kota Madiun"
+    },
+    {
+        "id": 264,
+        "name": "Kota Surabaya"
+    },
+    {
+        "id": 265,
+        "name": "Kota Batu"
+    },
+    {
+        "id": 266,
+        "name": "Kabupaten Pandeglang"
+    },
+    {
+        "id": 267,
+        "name": "Kabupaten Lebak"
+    },
+    {
+        "id": 268,
+        "name": "Kabupaten Tangerang"
+    },
+    {
+        "id": 269,
+        "name": "Kabupaten Serang"
+    },
+    {
+        "id": 270,
+        "name": "Kota Tangerang"
+    },
+    {
+        "id": 271,
+        "name": "Kota Cilegon"
+    },
+    {
+        "id": 272,
+        "name": "Kota Serang"
+    },
+    {
+        "id": 273,
+        "name": "Kota Tangerang Selatan"
+    },
+    {
+        "id": 274,
+        "name": "Kabupaten Jembrana"
+    },
+    {
+        "id": 275,
+        "name": "Kabupaten Tabanan"
+    },
+    {
+        "id": 276,
+        "name": "Kabupaten Badung"
+    },
+    {
+        "id": 277,
+        "name": "Kabupaten Gianyar"
+    },
+    {
+        "id": 278,
+        "name": "Kabupaten Klungkung"
+    },
+    {
+        "id": 279,
+        "name": "Kabupaten Bangli"
+    },
+    {
+        "id": 280,
+        "name": "Kabupaten Karangasem"
+    },
+    {
+        "id": 281,
+        "name": "Kabupaten Buleleng"
+    },
+    {
+        "id": 282,
+        "name": "Kota Denpasar"
+    },
+    {
+        "id": 283,
+        "name": "Kabupaten Lombok Barat"
+    },
+    {
+        "id": 284,
+        "name": "Kabupaten Lombok Tengah"
+    },
+    {
+        "id": 285,
+        "name": "Kabupaten Lombok Timur"
+    },
+    {
+        "id": 286,
+        "name": "Kabupaten Sumbawa"
+    },
+    {
+        "id": 287,
+        "name": "Kabupaten Dompu"
+    },
+    {
+        "id": 288,
+        "name": "Kabupaten Bima"
+    },
+    {
+        "id": 289,
+        "name": "Kabupaten Sumbawa Barat"
+    },
+    {
+        "id": 290,
+        "name": "Kabupaten Lombok Utara"
+    },
+    {
+        "id": 291,
+        "name": "Kota Mataram"
+    },
+    {
+        "id": 292,
+        "name": "Kota Bima"
+    },
+    {
+        "id": 293,
+        "name": "Kabupaten Kupang"
+    },
+    {
+        "id": 294,
+        "name": "Kab Timor Tengah Selatan"
+    },
+    {
+        "id": 295,
+        "name": "Kabupaten Timor Tengah Utara"
+    },
+    {
+        "id": 296,
+        "name": "Kabupaten Belu"
+    },
+    {
+        "id": 297,
+        "name": "Kabupaten Alor"
+    },
+    {
+        "id": 298,
+        "name": "Kabupaten Flores Timur"
+    },
+    {
+        "id": 299,
+        "name": "Kabupaten Sikka"
+    },
+    {
+        "id": 300,
+        "name": "Kabupaten Ende"
+    },
+    {
+        "id": 301,
+        "name": "Kabupaten Ngada"
+    },
+    {
+        "id": 302,
+        "name": "Kabupaten Manggarai"
+    },
+    {
+        "id": 303,
+        "name": "Kabupaten Sumba Timur"
+    },
+    {
+        "id": 304,
+        "name": "Kabupaten Sumba Barat"
+    },
+    {
+        "id": 305,
+        "name": "Kabupaten Lembata"
+    },
+    {
+        "id": 306,
+        "name": "Kabupaten Rote Ndao"
+    },
+    {
+        "id": 307,
+        "name": "Kabupaten Manggarai Barat"
+    },
+    {
+        "id": 308,
+        "name": "Kabupaten Nagekeo"
+    },
+    {
+        "id": 309,
+        "name": "Kabupaten Sumba Tengah"
+    },
+    {
+        "id": 310,
+        "name": "Kabupaten Sumba Barat Daya"
+    },
+    {
+        "id": 311,
+        "name": "Kabupaten Manggarai Timur"
+    },
+    {
+        "id": 312,
+        "name": "Kabupaten Sabu Raijua"
+    },
+    {
+        "id": 313,
+        "name": "Kabupaten Malaka"
+    },
+    {
+        "id": 314,
+        "name": "Kota Kupang"
+    },
+    {
+        "id": 315,
+        "name": "Kabupaten Sambas"
+    },
+    {
+        "id": 316,
+        "name": "Kabupaten Mempawah"
+    },
+    {
+        "id": 317,
+        "name": "Kabupaten Sanggau"
+    },
+    {
+        "id": 318,
+        "name": "Kabupaten Ketapang"
+    },
+    {
+        "id": 319,
+        "name": "Kabupaten Sintang"
+    },
+    {
+        "id": 320,
+        "name": "Kabupaten Kapuas Hulu"
+    },
+    {
+        "id": 321,
+        "name": "Kabupaten Bengkayang"
+    },
+    {
+        "id": 322,
+        "name": "Kabupaten Landak"
+    },
+    {
+        "id": 323,
+        "name": "Kabupaten Sekadau"
+    },
+    {
+        "id": 324,
+        "name": "Kabupaten Melawi"
+    },
+    {
+        "id": 325,
+        "name": "Kabupaten Kayong Utara"
+    },
+    {
+        "id": 326,
+        "name": "Kabupaten Kubu Raya"
+    },
+    {
+        "id": 327,
+        "name": "Kota Pontianak"
+    },
+    {
+        "id": 328,
+        "name": "Kota Singkawang"
+    },
+    {
+        "id": 329,
+        "name": "Kabupaten Kotawaringin Barat"
+    },
+    {
+        "id": 330,
+        "name": "Kabupaten Kotawaringin Timur"
+    },
+    {
+        "id": 331,
+        "name": "Kabupaten Kapuas"
+    },
+    {
+        "id": 332,
+        "name": "Kabupaten Barito Selatan"
+    },
+    {
+        "id": 333,
+        "name": "Kabupaten Barito Utara"
+    },
+    {
+        "id": 334,
+        "name": "Kabupaten Katingan"
+    },
+    {
+        "id": 335,
+        "name": "Kabupaten Seruyan"
+    },
+    {
+        "id": 336,
+        "name": "Kabupaten Sukamara"
+    },
+    {
+        "id": 337,
+        "name": "Kabupaten Lamandau"
+    },
+    {
+        "id": 338,
+        "name": "Kabupaten Gunung Mas"
+    },
+    {
+        "id": 339,
+        "name": "Kabupaten Pulang Pisau"
+    },
+    {
+        "id": 340,
+        "name": "Kabupaten Murung Raya"
+    },
+    {
+        "id": 341,
+        "name": "Kabupaten Barito Timur"
+    },
+    {
+        "id": 342,
+        "name": "Kota Palangkaraya"
+    },
+    {
+        "id": 343,
+        "name": "Kabupaten Tanah Laut"
+    },
+    {
+        "id": 344,
+        "name": "Kabupaten Kotabaru"
+    },
+    {
+        "id": 345,
+        "name": "Kabupaten Banjar"
+    },
+    {
+        "id": 346,
+        "name": "Kabupaten Barito Kuala"
+    },
+    {
+        "id": 347,
+        "name": "Kabupaten Tapin"
+    },
+    {
+        "id": 348,
+        "name": "Kabupaten Hulu Sungai Selatan"
+    },
+    {
+        "id": 349,
+        "name": "Kabupaten Hulu Sungai Tengah"
+    },
+    {
+        "id": 350,
+        "name": "Kabupaten Hulu Sungai Utara"
+    },
+    {
+        "id": 351,
+        "name": "Kabupaten Tabalong"
+    },
+    {
+        "id": 352,
+        "name": "Kabupaten Tanah Bumbu"
+    },
+    {
+        "id": 353,
+        "name": "Kabupaten Balangan"
+    },
+    {
+        "id": 354,
+        "name": "Kota Banjarmasin"
+    },
+    {
+        "id": 355,
+        "name": "Kota Banjarbaru"
+    },
+    {
+        "id": 356,
+        "name": "Kabupaten Paser"
+    },
+    {
+        "id": 357,
+        "name": "Kabupaten Kutai Kartanegara"
+    },
+    {
+        "id": 358,
+        "name": "Kabupaten Berau"
+    },
+    {
+        "id": 359,
+        "name": "Kabupaten Kutai Barat"
+    },
+    {
+        "id": 360,
+        "name": "Kabupaten Kutai Timur"
+    },
+    {
+        "id": 361,
+        "name": "Kabupaten Penajam Paser Utara"
+    },
+    {
+        "id": 362,
+        "name": "Kabupaten Mahakam Ulu"
+    },
+    {
+        "id": 363,
+        "name": "Kota Balikpapan"
+    },
+    {
+        "id": 364,
+        "name": "Kota Samarinda"
+    },
+    {
+        "id": 365,
+        "name": "Kota Bontang"
+    },
+    {
+        "id": 366,
+        "name": "Kabupaten Bulungan"
+    },
+    {
+        "id": 367,
+        "name": "Kabupaten Malinau"
+    },
+    {
+        "id": 368,
+        "name": "Kabupaten Nunukan"
+    },
+    {
+        "id": 369,
+        "name": "Kabupaten Tana Tidung"
+    },
+    {
+        "id": 370,
+        "name": "Kota Tarakan"
+    },
+    {
+        "id": 371,
+        "name": "Kabupaten Bolaang Mongondow"
+    },
+    {
+        "id": 372,
+        "name": "Kabupaten Minahasa"
+    },
+    {
+        "id": 373,
+        "name": "Kabupaten Kepulauan Sangihe"
+    },
+    {
+        "id": 374,
+        "name": "Kabupaten Kepulauan Talaud"
+    },
+    {
+        "id": 375,
+        "name": "Kabupaten Minahasa Selatan"
+    },
+    {
+        "id": 376,
+        "name": "Kabupaten Minahasa Utara"
+    },
+    {
+        "id": 377,
+        "name": "Kabupaten Minahasa Tenggara"
+    },
+    {
+        "id": 378,
+        "name": "Kabupaten Bolaang Mongondow Utara"
+    },
+    {
+        "id": 379,
+        "name": "Kabupaten Kep. Siau Tagulandang Biaro"
+    },
+    {
+        "id": 380,
+        "name": "Kabupaten Bolaang Mongondow Timur"
+    },
+    {
+        "id": 381,
+        "name": "Kabupaten Bolaang Mongondow Selatan"
+    },
+    {
+        "id": 382,
+        "name": "Kota Manado"
+    },
+    {
+        "id": 383,
+        "name": "Kota Bitung"
+    },
+    {
+        "id": 384,
+        "name": "Kota Tomohon"
+    },
+    {
+        "id": 385,
+        "name": "Kota Kotamobagu"
+    },
+    {
+        "id": 386,
+        "name": "Kabupaten Banggai"
+    },
+    {
+        "id": 387,
+        "name": "Kabupaten Poso"
+    },
+    {
+        "id": 388,
+        "name": "Kabupaten Donggala"
+    },
+    {
+        "id": 389,
+        "name": "Kabupaten Toli Toli"
+    },
+    {
+        "id": 390,
+        "name": "Kabupaten Buol"
+    },
+    {
+        "id": 391,
+        "name": "Kabupaten Morowali"
+    },
+    {
+        "id": 392,
+        "name": "Kabupaten Banggai Kepulauan"
+    },
+    {
+        "id": 393,
+        "name": "Kabupaten Parigi Moutong"
+    },
+    {
+        "id": 394,
+        "name": "Kabupaten Tojo Una Una"
+    },
+    {
+        "id": 395,
+        "name": "Kabupaten Sigi"
+    },
+    {
+        "id": 396,
+        "name": "Kabupaten Banggai Laut"
+    },
+    {
+        "id": 397,
+        "name": "Kabupaten Morowali Utara"
+    },
+    {
+        "id": 398,
+        "name": "Kota Palu"
+    },
+    {
+        "id": 399,
+        "name": "Kabupaten Kepulauan Selayar"
+    },
+    {
+        "id": 400,
+        "name": "Kabupaten Bulukumba"
+    },
+    {
+        "id": 401,
+        "name": "Kabupaten Bantaeng"
+    },
+    {
+        "id": 402,
+        "name": "Kabupaten Jeneponto"
+    },
+    {
+        "id": 403,
+        "name": "Kabupaten Takalar"
+    },
+    {
+        "id": 404,
+        "name": "Kabupaten Gowa"
+    },
+    {
+        "id": 405,
+        "name": "Kabupaten Sinjai"
+    },
+    {
+        "id": 406,
+        "name": "Kabupaten Bone"
+    },
+    {
+        "id": 407,
+        "name": "Kabupaten Maros"
+    },
+    {
+        "id": 408,
+        "name": "Kabupaten Pangkajene Kepulauan"
+    },
+    {
+        "id": 409,
+        "name": "Kabupaten Barru"
+    },
+    {
+        "id": 410,
+        "name": "Kabupaten Soppeng"
+    },
+    {
+        "id": 411,
+        "name": "Kabupaten Wajo"
+    },
+    {
+        "id": 412,
+        "name": "Kabupaten Sidenreng Rappang"
+    },
+    {
+        "id": 413,
+        "name": "Kabupaten Pinrang"
+    },
+    {
+        "id": 414,
+        "name": "Kabupaten Enrekang"
+    },
+    {
+        "id": 415,
+        "name": "Kabupaten Luwu"
+    },
+    {
+        "id": 416,
+        "name": "Kabupaten Tana Toraja"
+    },
+    {
+        "id": 417,
+        "name": "Kabupaten Luwu Utara"
+    },
+    {
+        "id": 418,
+        "name": "Kabupaten Luwu Timur"
+    },
+    {
+        "id": 419,
+        "name": "Kabupaten Toraja Utara"
+    },
+    {
+        "id": 420,
+        "name": "Kota Makassar"
+    },
+    {
+        "id": 421,
+        "name": "Kota Pare Pare"
+    },
+    {
+        "id": 422,
+        "name": "Kota Palopo"
+    },
+    {
+        "id": 423,
+        "name": "Kabupaten Kolaka"
+    },
+    {
+        "id": 424,
+        "name": "Kabupaten Konawe"
+    },
+    {
+        "id": 425,
+        "name": "Kabupaten Muna"
+    },
+    {
+        "id": 426,
+        "name": "Kabupaten Buton"
+    },
+    {
+        "id": 427,
+        "name": "Kabupaten Konawe Selatan"
+    },
+    {
+        "id": 428,
+        "name": "Kabupaten Bombana"
+    },
+    {
+        "id": 429,
+        "name": "Kabupaten Wakatobi"
+    },
+    {
+        "id": 430,
+        "name": "Kabupaten Kolaka Utara"
+    },
+    {
+        "id": 431,
+        "name": "Kabupaten Konawe Utara"
+    },
+    {
+        "id": 432,
+        "name": "Kabupaten Buton Utara"
+    },
+    {
+        "id": 433,
+        "name": "Kabupaten Kolaka Timur"
+    },
+    {
+        "id": 434,
+        "name": "Kabupaten Konawe Kepulauan"
+    },
+    {
+        "id": 435,
+        "name": "Kabupaten Muna Barat"
+    },
+    {
+        "id": 436,
+        "name": "Kabupaten Buton Tengah"
+    },
+    {
+        "id": 437,
+        "name": "Kabupaten Buton Selatan"
+    },
+    {
+        "id": 438,
+        "name": "Kota Kendari"
+    },
+    {
+        "id": 439,
+        "name": "Kota Bau Bau"
+    },
+    {
+        "id": 440,
+        "name": "Kabupaten Gorontalo"
+    },
+    {
+        "id": 441,
+        "name": "Kabupaten Boalemo"
+    },
+    {
+        "id": 442,
+        "name": "Kabupaten Bone Bolango"
+    },
+    {
+        "id": 443,
+        "name": "Kabupaten Pahuwato"
+    },
+    {
+        "id": 444,
+        "name": "Kabupaten Gorontalo Utara"
+    },
+    {
+        "id": 445,
+        "name": "Kota Gorontalo"
+    },
+    {
+        "id": 446,
+        "name": "Kabupaten Pasangkayu"
+    },
+    {
+        "id": 447,
+        "name": "Kabupaten Mamuju"
+    },
+    {
+        "id": 448,
+        "name": "Kabupaten Mamasa"
+    },
+    {
+        "id": 449,
+        "name": "Kabupaten Polewali Mandar"
+    },
+    {
+        "id": 450,
+        "name": "Kabupaten Majene"
+    },
+    {
+        "id": 451,
+        "name": "Kabupaten Mamuju Tengah"
+    },
+    {
+        "id": 452,
+        "name": "Kabupaten Maluku Tengah"
+    },
+    {
+        "id": 453,
+        "name": "Kabupaten Maluku Tenggara"
+    },
+    {
+        "id": 454,
+        "name": "Kabupaten Kepulauan Tanimbar"
+    },
+    {
+        "id": 455,
+        "name": "Kabupaten Buru"
+    },
+    {
+        "id": 456,
+        "name": "Kabupaten Seram Bagian Timur"
+    },
+    {
+        "id": 457,
+        "name": "Kabupaten Seram Bagian Barat"
+    },
+    {
+        "id": 458,
+        "name": "Kabupaten Kepulauan Aru"
+    },
+    {
+        "id": 459,
+        "name": "Kabupaten Maluku Barat Daya"
+    },
+    {
+        "id": 460,
+        "name": "Kabupaten Buru Selatan"
+    },
+    {
+        "id": 461,
+        "name": "Kota Ambon"
+    },
+    {
+        "id": 462,
+        "name": "Kota Tual"
+    },
+    {
+        "id": 463,
+        "name": "Kabupaten Halmahera Barat"
+    },
+    {
+        "id": 464,
+        "name": "Kabupaten Halmahera Tengah"
+    },
+    {
+        "id": 465,
+        "name": "Kabupaten Halmahera Utara"
+    },
+    {
+        "id": 466,
+        "name": "Kabupaten Halmahera Selatan"
+    },
+    {
+        "id": 467,
+        "name": "Kabupaten Kepulauan Sula"
+    },
+    {
+        "id": 468,
+        "name": "Kabupaten Halmahera Timur"
+    },
+    {
+        "id": 469,
+        "name": "Kabupaten Pulau Morotai"
+    },
+    {
+        "id": 470,
+        "name": "Kabupaten Pulau Taliabu"
+    },
+    {
+        "id": 471,
+        "name": "Kota Ternate"
+    },
+    {
+        "id": 472,
+        "name": "Kota Tidore Kepulauan"
+    },
+    {
+        "id": 473,
+        "name": "Kabupaten Merauke"
+    },
+    {
+        "id": 474,
+        "name": "Kabupaten Jayawijaya"
+    },
+    {
+        "id": 475,
+        "name": "Kabupaten Jayapura"
+    },
+    {
+        "id": 476,
+        "name": "Kabupaten Nabire"
+    },
+    {
+        "id": 477,
+        "name": "Kabupaten Kepulauan Yapen"
+    },
+    {
+        "id": 478,
+        "name": "Kabupaten Biak Numfor"
+    },
+    {
+        "id": 479,
+        "name": "Kabupaten Puncak Jaya"
+    },
+    {
+        "id": 480,
+        "name": "Kabupaten Paniai"
+    },
+    {
+        "id": 481,
+        "name": "Kabupaten Mimika"
+    },
+    {
+        "id": 482,
+        "name": "Kabupaten Sarmi"
+    },
+    {
+        "id": 483,
+        "name": "Kabupaten Keerom"
+    },
+    {
+        "id": 484,
+        "name": "Kabupaten Pegunungan Bintang"
+    },
+    {
+        "id": 485,
+        "name": "Kabupaten Yahukimo"
+    },
+    {
+        "id": 486,
+        "name": "Kabupaten Tolikara"
+    },
+    {
+        "id": 487,
+        "name": "Kabupaten Waropen"
+    },
+    {
+        "id": 488,
+        "name": "Kabupaten Boven Digoel"
+    },
+    {
+        "id": 489,
+        "name": "Kabupaten Mappi"
+    },
+    {
+        "id": 490,
+        "name": "Kabupaten Asmat"
+    },
+    {
+        "id": 491,
+        "name": "Kabupaten Supiori"
+    },
+    {
+        "id": 492,
+        "name": "Kabupaten Mamberamo Raya"
+    },
+    {
+        "id": 493,
+        "name": "Kabupaten Mamberamo Tengah"
+    },
+    {
+        "id": 494,
+        "name": "Kabupaten Yalimo"
+    },
+    {
+        "id": 495,
+        "name": "Kabupaten Lanny Jaya"
+    },
+    {
+        "id": 496,
+        "name": "Kabupaten Nduga"
+    },
+    {
+        "id": 497,
+        "name": "Kabupaten Puncak"
+    },
+    {
+        "id": 498,
+        "name": "Kabupaten Dogiyai"
+    },
+    {
+        "id": 499,
+        "name": "Kabupaten Intan Jaya"
+    },
+    {
+        "id": 500,
+        "name": "Kabupaten Deiyai"
+    },
+    {
+        "id": 501,
+        "name": "Kota Jayapura"
+    },
+    {
+        "id": 502,
+        "name": "Kabupaten Sorong"
+    },
+    {
+        "id": 503,
+        "name": "Kabupaten Manokwari"
+    },
+    {
+        "id": 504,
+        "name": "Kabupaten Fak Fak"
+    },
+    {
+        "id": 505,
+        "name": "Kabupaten Sorong Selatan"
+    },
+    {
+        "id": 506,
+        "name": "Kabupaten Raja Ampat"
+    },
+    {
+        "id": 507,
+        "name": "Kabupaten Teluk Bintuni"
+    },
+    {
+        "id": 508,
+        "name": "Kabupaten Teluk Wondama"
+    },
+    {
+        "id": 509,
+        "name": "Kabupaten Kaimana"
+    },
+    {
+        "id": 510,
+        "name": "Kabupaten Tambrauw"
+    },
+    {
+        "id": 511,
+        "name": "Kabupaten Maybrat"
+    },
+    {
+        "id": 512,
+        "name": "Kabupaten Manokwari Selatan"
+    },
+    {
+        "id": 513,
+        "name": "Kabupaten Pegunungan Arfak"
+    },
+    {
+        "id": 514,
+        "name": "Kota Sorong"
+    }
+]
