@@ -24,6 +24,7 @@ use pxlrbt\FilamentExcel\Actions\Tables\ExportBulkAction;
 use pxlrbt\FilamentExcel\Exports\ExcelExport;
 use pxlrbt\FilamentExcel\Columns\Column;
 use Illuminate\Support\Carbon;
+use Filament\Tables\Columns\Summarizers\Sum;
 
 class AssetsResource extends Resource
 {
@@ -35,6 +36,27 @@ class AssetsResource extends Resource
 
     protected static ?string $pluralModelLabel = 'Daftar Keuangan';
     protected static ?string $label = 'Keuangan';
+
+    // coba filter tapi tidak berhasil
+
+    // public ?string $filter = 'today';
+
+    // protected function getFilters(): ?array
+    // {
+    //     return [
+    //         'today' => 'Today',
+    //         'week' => 'Last week',
+    //         'month' => 'Last month',
+    //         'year' => 'This year',
+    //     ];
+    // }
+
+    // protected function getData(): array
+    // {
+    //     $activeFilter = $this->filter;
+    
+    //     // ...
+    // }
 
     public static function form(Form $form): Form
     {
@@ -64,14 +86,34 @@ class AssetsResource extends Resource
             ]);
     }
 
+    public function filtersForm(Form $form): Form
+    {
+        return $form
+            ->schema([
+                Section::make()
+                    ->schema([
+                        Select::make('businessCustomersOnly')
+                            ->boolean(),
+                        DatePicker::make('startDate')
+                            ->maxDate(fn (Get $get) => $get('endDate') ?: now()),
+                        DatePicker::make('endDate')
+                            ->minDate(fn (Get $get) => $get('startDate') ?: now())
+                            ->maxDate(now()),
+                    ])
+                    ->columns(3),
+            ]);
+    }
+
     public static function table(Table $table): Table
     {
         return $table
             ->columns([
                 TextColumn::make('transaction_date')->label('Tanggal')->date('d-F-Y')->searchable(),
                 TextColumn::make('description')->searchable(),
-                TextColumn::make('amount')->money('IDR'),
-                TextColumn::make('payment')
+                // TextColumn::make('amount')->money('IDR'),
+                TextColumn::make('payment')->searchable(),
+                TextColumn::make('amount')
+                ->summarize(Sum::make()->label('Total'))
             ])
             ->filters([
                 Tables\Filters\Filter::make('transaction_date')

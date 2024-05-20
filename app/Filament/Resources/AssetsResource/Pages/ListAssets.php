@@ -7,7 +7,8 @@ use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
 use App\Filament\Widgets\StatsOverview;
 use App\Filament\Widgets\ExpensesDebitChart;
-use App\Filament\Widgets\IncomesDebitChart;
+use App\Filament\Widgets\IncomesKreditChart;
+use App\Filament\Widgets\Filters;
 use pxlrbt\FilamentExcel\Exports\ExcelExport;
 use Filament\Pages\Concerns\ExposesTableToWidgets;
 
@@ -28,9 +29,11 @@ class ListAssets extends ListRecords
     protected function getHeaderWidgets(): array
     {
         return [
+            // Filters::class,
             StatsOverview::class,
-            // ExpensesDebitChart::class,
-            // IncomesDebitChart::class
+            ExpensesDebitChart::class,
+            IncomesKreditChart::class,
+
         ];
     }    
 }

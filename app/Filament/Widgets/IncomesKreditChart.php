@@ -7,9 +7,9 @@ use Flowframe\Trend\Trend;
 use Flowframe\Trend\TrendValue;
 use App\Models\Assets;
 
-class ExpensesDebitChart extends ChartWidget
+class IncomesKreditChart extends ChartWidget
 {
-    protected static ?string $heading = 'Pengeluaran';
+    protected static ?string $heading = 'Pemasukan';
 
     protected function getData(): array
     {
@@ -23,7 +23,7 @@ class ExpensesDebitChart extends ChartWidget
         // ->sum('amount');
 
         //versi 2
-        $data = Trend::query(Assets::where('payment','Debit'))
+        $data = Trend::query(Assets::where('payment','Kredit'))
         ->dateColumn('transaction_date')
         ->between(
             start: now()->startOfYear(),
@@ -37,7 +37,7 @@ class ExpensesDebitChart extends ChartWidget
     return [
         'datasets' => [
             [
-                'label' => 'pengeluaran',
+                'label' => 'Pemasukan',
                 'data' => $data->map(fn (TrendValue $value) => $value->aggregate),
             ],
         ],
