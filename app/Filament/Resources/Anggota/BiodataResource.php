@@ -59,6 +59,12 @@ class BiodataResource extends Resource
                                 ])->native(false),
                             TextInput::make('blood')->name('Golongan Darah'),
                         ]),
+                        Select::make('status_keluarga')->name('Status Keluarga')->required()
+                            ->options([
+                                'Suami' => 'Suami',
+                                'Istri' => 'Istri',
+                                'Anak' => 'Anak'
+                            ])->native(false),
                         // Select::make('religion')->name('Agama')->required()
                         //     ->options([
                         //         'islam' => 'Islam',
@@ -1252,6 +1258,8 @@ class BiodataResource extends Resource
                 Tables\Columns\TextColumn::make('address.street')->label('Kota 1')
                     ->searchable(),
                 Tables\Columns\TextColumn::make('address.sub_district')->label('Provinsi 2')
+                    ->searchable(),
+                Tables\Columns\TextColumn::make('status_keluarga')->label('Status Keluarga')
                     ->searchable(),
             ])
             ->filters([])

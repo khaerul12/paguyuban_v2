@@ -29,6 +29,7 @@ class Biodata extends Model
         'instagram',
         'twitter',
         'head_kk',
+        'status_keluarga',
     ];
 
     public function address(): HasOne

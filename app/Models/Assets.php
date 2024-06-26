@@ -16,6 +16,7 @@ class Assets extends Model
         'amount',
         'payment',
         'category',
+        'invoice',
     ];
 
     // public function scopeExpenses($query)
@@ -32,4 +33,3 @@ class Assets extends Model
     //     });
     // }
 }
-

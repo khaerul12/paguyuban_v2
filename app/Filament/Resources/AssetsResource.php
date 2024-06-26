@@ -11,6 +11,7 @@ use Filament\Forms\Components\Radio;
 use Filament\Forms\Components\Section;
 use Filament\Forms\Components\Select;
 use Filament\Forms\Components\TextInput;
+use Filament\Forms\Components\FileUpload;
 use Filament\Forms\Form;
 use Filament\Infolists\Components\TextEntry;
 use Filament\Resources\Resource;
@@ -25,6 +26,7 @@ use pxlrbt\FilamentExcel\Exports\ExcelExport;
 use pxlrbt\FilamentExcel\Columns\Column;
 use Illuminate\Support\Carbon;
 use Filament\Tables\Columns\Summarizers\Sum;
+use Filament\Tables\Columns\ImageColumn;
 
 class AssetsResource extends Resource
 {
@@ -54,7 +56,7 @@ class AssetsResource extends Resource
     // protected function getData(): array
     // {
     //     $activeFilter = $this->filter;
-    
+
     //     // ...
     // }
 
@@ -81,7 +83,9 @@ class AssetsResource extends Resource
                             'crypto' => 'Crypto',
                             'investing' => 'Investing',
                             'broker' => 'Broker',
-                        ])
+                        ]),
+                    FileUpload::make('invoice')
+                        ->image()->name('Upload Invoice')->required(),
                 ]),
             ]);
     }
@@ -113,7 +117,14 @@ class AssetsResource extends Resource
                 // TextColumn::make('amount')->money('IDR'),
                 TextColumn::make('payment')->searchable(),
                 TextColumn::make('amount')
-                ->summarize(Sum::make()->label('Total'))
+                    ->summarize(Sum::make()->label('Total')),
+                ImageColumn::make('invoice'),
+                    // ->getStateUsing(function (Book $record): string {
+                    //     return $record->imgurl;
+                    // })
+                    // ->extraImgAttributes([
+                    //     'img' => 'src'
+                    // ]),
             ])
             ->filters([
                 Tables\Filters\Filter::make('transaction_date')
@@ -142,13 +153,13 @@ class AssetsResource extends Resource
                         if ($data['created_until'] ?? null) {
                             $indicators['created_until'] = 'Order until ' . Carbon::parse($data['created_until'])->toFormattedDateString();
                         }
- 
+
                         return $indicators;
                     }),
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
-                
+
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([

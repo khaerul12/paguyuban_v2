@@ -28,7 +28,7 @@
 
 
                                             <!-- Whatsapp -->
-                                            <a href="wa.me/+62{{ $biodata->number }}" target="_blank"
+                                            <a href="http://wa.me/+62{{ $biodata->number }}" target="_blank"
                                                class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border text-slate-300 border-slate-300 hover:border-cyan-600 hover:bg-cyan-500 hover:text-white">
                                                 <svg role="img" class="fill-current" width="20" viewBox="0 0 24 24"
                                                      xmlns="http://www.w3.org/2000/svg">

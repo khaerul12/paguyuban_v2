@@ -32,6 +32,7 @@ return new class () extends Migration {
             $table->bigInteger('head_kk')->nullable();
             $table->string('cities_v2')->nullable();
             $table->string('provinsi_v2')->nullable();
+            $table->string('status_keluarga')->nullable();
             $table->timestamps();
         });
     }

@@ -89,7 +89,7 @@
             <img src="{{ asset('/images/logo.png') }}" alt="logo" class="h-10">
             <span
                 class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
-            >Paguyuban Keluarga Warga Jawa</span
+            >Joglosemar</span
             >
         </a>
         <button
