@@ -159,7 +159,8 @@ class BiodataResource extends Resource
                 Tables\Actions\EditAction::make(),
                 DeleteAction::make()->before(function ($record) {
                     self::beforDelete($record);
-                })
+                }),
+                Tables\Actions\ViewAction::make(),
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([

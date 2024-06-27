@@ -27,6 +27,8 @@ use pxlrbt\FilamentExcel\Columns\Column;
 use Illuminate\Support\Carbon;
 use Filament\Tables\Columns\Summarizers\Sum;
 use Filament\Tables\Columns\ImageColumn;
+use Filament\Infolists;
+use Filament\Infolists\Infolist;
 
 class AssetsResource extends Resource
 {
@@ -159,6 +161,7 @@ class AssetsResource extends Resource
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
+                Tables\Actions\ViewAction::make(),
 
             ])
             ->bulkActions([
