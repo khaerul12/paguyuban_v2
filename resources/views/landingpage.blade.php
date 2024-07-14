@@ -191,6 +191,7 @@
                                 <th class="p-3 text-sm font-semibold tracking-wide text-left">Tanggal</th>
                                 <th class="p-3 text-sm font-semibold tracking-wide text-left">Keterangan</th>
                                 <th class="p-3 text-sm font-semibold tracking-wide text-left">Amount</th>
+                                <th class="p-3 text-sm font-semibold tracking-wide text-left">invoice</th>
                                 <th class="p-3 text-sm font-semibold tracking-wide text-left">Payment</th>
                             </tr>
                         </thead>
@@ -199,6 +200,19 @@
                             <tr class="bg-white">
                                 <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->created_at }}</td>
                                 <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->description }}</td>
+                                <!-- <td class="p-3 text-sm text-gray-700 whitespace-nowrap">
+                                    <img src="{{ $assets->invoice }}" alt="Invoice Image" style="cursor:pointer;" onclick="showImage('{{ $assets->invoice }}')" />
+                                </td> -->
+                                <td class="p-3 text-sm text-gray-700 whitespace-nowrap  font-semibold">
+                                    <div class="xl:flex xl:items-center xl:gap-5">
+                                        <img
+                                            src="{{ asset('storage/' .$assets->invoice)  }}"
+                                            class="h-12 rounded-lg w-12"
+                                            alt="{{ 'Invoice'. $assets->invoice }}"
+                                        />
+                                        {{ $assets->invoice }}
+                                    </div>               
+                                </td>   
                                 <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->amount }}</td>
                                 <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->payment }}</td>
                             </tr>
@@ -240,3 +254,17 @@
 </script>
 
 @endsection
+
+<!-- save coding -->
+ <!--                         <!-- <tbody class="divide-y divide-gray-100">
+                            @foreach($cashflow as $assets)  
+                            <tr class="bg-white">
+                                <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->created_at }}</td>
+                                <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->description }}</td>
+                                <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->amount }}</td>
+                                <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->invoice }}</td>
+                                <!-- <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->invoice }}</td> -->
+                                <td class="p-3 text-sm text-gray-700 whitespace-nowrap">{{ $assets->payment }}</td>
+                            </tr>
+                            @endforeach
+                        </tbody> --> -->
